@@ -10,7 +10,7 @@
 - ☁️ Sustainability – Because even technology needs to be green!  
 
 ## 🚀 Languages & Tools  
-<div align="center">
+
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)  
@@ -22,7 +22,6 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)  
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)  
 
-</div>  
 
 ## 🔥 Ongoing Projects  
 🌱 **Website for small farmers**  
