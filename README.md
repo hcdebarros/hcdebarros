@@ -33,5 +33,7 @@
 - 🎯 Quick learner – I fail today, succeed tomorrow (or after a few coffees).  
 - 💡 Always looking for new challenges and ways to innovate.  
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hcdebarros&show_icons=true&theme=radical)
+
 ## 📫 Want to connect?  
 Hit me up here on GitHub or send a smoke signal (just don’t burn the Amazon, please).  
