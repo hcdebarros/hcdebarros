@@ -7,7 +7,6 @@
 - 🤖 Artificial Intelligence – Teaching machines to think (or at least fake it well).  
 - 💻 Python – Building smart solutions and trying not to break things.  
 - 📉 Statistics – Doing magic with means and standard deviations.  
-- ☁️ Sustainability – Because even technology needs to be green!  
 
 ## 🚀 Languages & Tools  
 
