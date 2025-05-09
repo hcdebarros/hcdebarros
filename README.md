@@ -22,6 +22,8 @@
 
 ## 🔥 Ongoing Projects  
 🌱 **Website for small farmers**  
+💼 **Compet Superior - SEFAZ-PE**
+🤖 **Telegram bot**
 
 ## 📢 Fun Facts  
 - 🏐 Volleyball addict – if I'm not coding, I'm probably on the court.  
