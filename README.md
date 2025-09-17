@@ -26,11 +26,7 @@
 
 
 ## 🔥 Ongoing Projects  
-🌱 **Registration Program for Small-Scale Farmers in Family Agriculture**  
 
-💼 **Compet Superior - SEFAZ-PE**
-
-🤖 **Telegram bot for Furia users**
 
 ## 📢 Fun Facts  
 - 🏐 Volleyball addict – if I'm not coding, I'm probably on the court.  
